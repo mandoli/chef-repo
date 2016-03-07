@@ -4,7 +4,7 @@
 #
 
 package 'gedit' do
-	action:install
+	action:uninstall
 end 
 # Copyright 2016, YOUR_COMPANY_NAME
 #

@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 .chef
+=======
+.rake_test_cache
+
+###
+# Ignore Chef key files and secrets
+###
+.chef/*.pem
+.chef/encrypted_data_bag_secret
+>>>>>>> adca5ae35ea37b1a4af9e456b146b2d4151bf46d

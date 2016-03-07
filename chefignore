@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Put files/directories that should be ignored in this file when uploading
 # or sharing to the community site.
 # Lines that start with '# ' are comments.
@@ -93,3 +94,16 @@ Vagrantfile
 # Travis #
 ##########
 .travis.yml
+=======
+# Put files/directories that should be ignored in this file.
+# Lines that start with '# ' are comments.
+
+# emacs
+*~
+
+# vim
+*.sw[a-z]
+
+# subversion
+*/.svn/*
+>>>>>>> adca5ae35ea37b1a4af9e456b146b2d4151bf46d
